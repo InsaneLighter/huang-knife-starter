@@ -1,0 +1,15 @@
+.gradle
+.idea
+*/build
+*/generatedSrc
+*/out
+pic
+*.log
+*/logs
+build
+gradle.properties
+temp
+logs
+*/.idea
+download
+target
